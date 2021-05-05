@@ -1,0 +1,75 @@
+/* .btn {
+  background-color: grey;
+} */
+
+/* .card-image .card-title {
+  color: grey lighten-3;
+} */
+
+.section-follow .fa-2x {
+  margin: 5px 10px;
+}
+
+/* .sliders img {
+  margin: 400px auto;
+  background-attachment: fixed;
+} */
+
+.faq-wrapper {
+  position: relative;
+}
+
+.image-wrapper-inner1 {
+  position: absolute;
+  left: -400px;
+  bottom: -25px;
+  opacity: 0.4;
+}
+
+.section-contact h5 {
+  margin-bottom: 30px;
+}
+
+#faq .container {
+  /* background-image: url(/img/FemadeFAQLogo.png);
+  background-repeat: no-repeat;
+  background-position: 126% 65%; */
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+/* .answer {
+  display: none;
+} */
+
+/* .questions-answer-accordion {
+  width: 350px;
+  border-bottom: 1px solid #e8e8ea;
+} */
+
+.question .material-icons {
+  color: coral;
+  align-self: center;
+}
+
+.question-title {
+  font-size: 1.1rem;
+  font-weight: 400;
+  margin: 1.3rem 0rem;
+}
+
+/* .question {
+  display: flex;
+  justify-content: space-between;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.active .material-icons {
+  transform: rotate(180deg);
+  transition: all 0.2s ease-in;
+}
+
+#faq .active h5 {
+  font-weight: 700;
+}  */
